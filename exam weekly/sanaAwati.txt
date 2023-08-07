@@ -1,0 +1,256 @@
+      Exam............
+
+1).  explain java and javac?
+    java  :  java is object oriented programing leg .java is use when the runtime after compiler is complet i-e 
+             java filename
+                                 java sana
+    javac  :  javac is the use when the compile time i-e
+               javac filename.java
+                                      javac sana.java
+
+
+
+
+2).   explain JDK,JRE,JVM
+     i>  JDK .  JDK is the java development kit they  internaly consist of JRE and JVM.and this use to java tools that tools is use to java programs.
+     ii> JRE .  JRE is the java runtime envormental they internaly consist of JVM . they provide the envormental verible they use to executing the java.
+     iii> JVM . JRE  is the java virtual machin they use to executing the java code i-e the take the byte code and jvm convert and execute.
+
+3). explain arrays and limitation of array?
+    * Array is the homogenias element
+    * Array index start with 0 index up to ...n
+    *example 
+            
+            int[0];
+            int[1];
+            int[2];
+            String[3];
+            float[4];
+              .
+              .
+              .
+              [n];
+     * array types is one daimention array,and two daimention array ,and multi daimention arrray
+    
+
+ii)  limitation of arrays
+     
+ * more memory space.
+ * memory space is wested.
+ *index value start with 0.
+
+
+4). explain classs,object, and signature of the class
+
+  i) class :   a class is the templet that user defind the name of that class object
+          exapmle: Class Cake{
+                               .........
+                              }
+  * Class is the keyw
+
+
+
+ii)   Object :  object is the anythink exit in the real wrold that is called asa the object.
+       example:  object name
+                 * cake
+                 * mobile
+                 * remote
+                 * machin
+
+iii)  signature of the class   :  the signature of the class is templet of the varibles that can be defind in user i-e class is the keyw
+                      Class class-name{
+                                         ...........
+                                       }
+                         Class sana{
+                                     static void cake{
+                                                       System.out.println("hi welcom");
+                                                      }
+                                    }
+
+
+
+
+
+
+
+5)   diffrence between .java and .class
+ i)       . java    :  .java is file name i-e when the source code or writing pgm is complet then to save the file name is   classname.java
+         *)   .java is the main() program in the source code   that program is used as .java
+  
+
+
+ii)   .class     :     .class is the  when the .java class is run then they deflut .class will be created i-e classname.class  
+                ex:   sana.class
+
+
+
+
+
+
+
+6)expalin method signature
+            method:  the method is the block that can be call every time .they can be consist of instance and class object.
+                   *  the method can be "reusing"
+                   * they can be using more number of time 
+             example:  in this method the using static method 
+                       
+                         Class static void cake()
+                                              {
+                                                System.out.println("cake is best");
+                                               }
+
+
+
+7)   what is java  :   the java is object oriented programing leg .
+                       and the real wrold problem can be solved as in program leg.
+
+                      *  the feature of java is 
+                          1) platfrom independent
+                          2) case-sensetiv
+                   
+8)  list in java IDE's
+
+
+
+
+
+9)what is variables ? explain its type?
+   
+         varibles:  a varibles is they can be stored the data in memory .which can user-defind type the user defind the varibles 
+         example    int .... is the data type
+                     a ....  is the name of the varibles
+                     10 ...... is the varible a which can stode the value of 10
+    
+                       int a=10;
+
+
+
+ii)   type of the varibles 
+                          
+                       * two type of varibles
+                       1)local varibles      :with in a program
+                       2) global varible      :outside of the program or main method of program
+
+
+10)what is class variable
+                     
+                  the class variable is the user that can be defined the class variable name i-e
+                  Class is the keyw
+                 
+                 Class class_name{
+                                  '''''''''''''''
+                                  }
+             example: Class cake{
+                                 system.out .println(" hi welcom");
+                                 }
+
+
+11) what are data type and expalin
+
+                         data type is two type
+                           primitive data type                   non primitive data type
+                              int                                        array
+                              float                                       string
+                              char                                         
+                              double
+                              byte
+
+
+
+
+
+
+
+
+
+
+
+
+
+12) list the java feature
+      1)  platfrom independent
+      2)case-sensetive
+
+
+
+13)whta is the base class of the all the classes
+
+
+
+
+
+
+
+
+14) type of method is 
+   1)static method                      ex:   static void  cake()
+                                              {
+                                                  System.out.println("hi welcom")
+                  
+                                               }
+  2) non static method
+
+
+
+15)write the program which can include varible ,method array ,if and for loop
+
+
+         Class Mobile{
+                      public static void main(String [] args)
+                      {
+                       System.out.println("mobile information");
+                       String mobileName="vivo";
+                       String mobiletype="redme";
+                       String qulity="best";
+                       String mobile color="pink";
+                 
+                    String[] Mobiles={ vivo,redme,best,pink};
+                      Mobiles[1]="oppo";
+                   System.out.println("displey mobile info")
+                   
+                 for( int item=0;item<=10;item++)
+                  {
+                    System.out.println("mobile info:"+mobile +"is" +"mobiles[item]");
+                  }
+                 if(mobile!=null)
+                  {
+                    System.out.println("mobile info in valid");
+                  }
+                  else
+                  {
+                     System.out.println("mobile info in in-valid");
+                  }
+             }
+    }
+                     
+      
+
+
+
+
+
+
+
+
+
+
+
+
+1)   c)
+2)   c)
+3)   c)
+4)   d)
+5)   b)
+6)   b)
+7)   c)
+8)   b)
+9)   c)
+10)  a)
+   
+
+pick odd one out
+ 11) 2
+ 12) 49
+ 13) window
+ 14) sun
+ 15) HJ
